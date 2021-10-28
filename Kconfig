@@ -1,0 +1,6 @@
+config SDBPK
+tristate "SDBPK Driver"
+depends on SPI && GPIOLIB
+default m
+help
+sdbpk driver

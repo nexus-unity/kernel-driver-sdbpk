@@ -1,0 +1,13 @@
+.cache.mk
+*.cmd
+.tmp_versions/
+Module.symvers
+modules.order
+*.mod.c
+*.mod.o
+*.o
+sdbpk.ko
+built-in.a
+modules.builtin
+*.c~
+*.h~
